@@ -112,20 +112,66 @@ const Songs = [
         "Thumbnail" : "https://i.ytimg.com/vi/Sk-U8ruIQyA/0.jpg",
         "Source" : "https://github.com/subhranshuchoudhury/s-Player/raw/main/songs/y2mate.com%20-%20grandson%20%20Blood%20%20Water%20Official%20Audio.mp3"
     },
- 
+    {
+        "SongID" : 17,
+        "Title" : "Jabra Fan",
+        "Category" : "Happy",
+        "Thumbnail" : "https://www.pagalworld.tv/GpE34Kg9Gq/10552/thumb-jabra-fan-mp3-song-300.jpg",
+        "Source" : "https://www.dropbox.com/s/a7rx1m8lvrvwbhu/Jabra%20Fan%20%28Hindi%29%20190Kbps%20%282%29.mp3?dl=1"
+    },
+    {
+     "SongID" : 19,
+        "Title" : "Jee Rahe The Hum - Falling in Love",
+        "Category" : "love",
+        "Thumbnail" : "https://www.pagalworld.tv/GpE34Kg9Gq/113734/151267-jee-rahe-the-hum-falling-in-love-mp3-song-300.jpg",
+        "Source" : "https://www.dropbox.com/s/184h93gwltbl8v1/Jee%20Rahe%20The%20Hum%20-%20Falling%20in%20Love.mp3?dl=1"
+    },
+    {
+     "SongID" : 20,
+        "Title" : "Lets Dance Chotu Motu - Yo Yo Honey Singh",
+        "Category" : "energetic",
+        "Thumbnail" : "https://www.pagalworld.tv/GpE34Kg9Gq/113734/151385-lets-dance-chotu-motu-yo-yo-honey-singh-mp3-song-300.jpg",
+        "Source" : "https://www.dropbox.com/s/v16yb2miygnm4iu/Lets%20Dance%20Chotu%20Motu%20-%20Yo%20Yo%20Honey%20Singh.mp3?dl=1"
+    },
+    {
+     "SongID" : 21,
+        "Title" : "Boyfriend Part 1 - Dino James",
+        "Category" : "rap",
+        "Thumbnail" : "https://www.pagalworld.tv/GpE34Kg9Gq/113604/151373-boyfriend-part-1-dino-james-mp3-song-300.jpg",
+        "Source" : "https://www.dropbox.com/s/pdmqleoifffykor/Boyfriend%20Part%201%20-%20Dino%20James.mp3?dl=1"
+    },
+    {
+    "SongID" : 22,
+        "Title" : "Deva Deva - Arijit Singh",
+        "Category" : "motivation",
+        "Thumbnail" : "https://i.ytimg.com/vi/mNuhKUOD_A0/maxresdefault.jpg",
+        "Source" : "https://www.dropbox.com/s/spvk6wmg0qth1zb/Deva%20Deva%28PagalWorld.com.se%29.mp3?dl=1"
+
+    }, 
+    {
+    "SongID" : 23,
+            "Title" : "Ek Zindagi Song",
+            "Category" : "motivation",
+            "Thumbnail" : "https://pagalsong.in/uploads//thumbnails/300x300/id3Picture_470141778.jpg",
+            "Source" : "https://www.dropbox.com/s/lt0k9mod3yp8gix/new_320_01%20-%20Ek%20Zindagi%20-%20Angrezi%20Medium%20%282020%29.mp3?dl=1"
     
+        },
+         {
+           "SongID" : 24,
+                    "Title" : "Dil Ibaadat-KK",
+                    "Category" : "Love",
+                    "Thumbnail" : "https://c.saavncdn.com/732/Dil-Ibadat-English-2020-20200411140403-500x500.jpg",
+                    "Source" : "https://www.dropbox.com/s/6s42l7sg9ll8wdv/old_Tum%20Mile-Dil%20Ibadat.mp3?dl=1"
+            
+                },
+         
 ]
 
 export default Songs;
 
 /*
 
-{
-        "SongID" : 6,
-        "Title" : "",
-        "Category" : "",
-        "Thumbnail" : "",
-        "Source" : ""
-    },
+
+    
 
 */
